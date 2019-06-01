@@ -7,3 +7,5 @@ make sure opencv version is at least 4.0.0
 
 ---
 ## Usage
+>`python3 EdgeDetection.py --file [path/to/image/folder]`
+
