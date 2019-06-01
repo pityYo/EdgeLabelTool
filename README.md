@@ -12,10 +12,11 @@ use trackbar below the window, clear edges remains
 ![cat01](https://github.com/pityYo/EdgeLabelTool/blob/master/cat01.png)  
 ![cat02](https://github.com/pityYo/EdgeLabelTool/blob/master/cat02.png)  
   
-use mouse as eraser, pressing left button to remove the part you don't like
-![cat03](https://github.com/pityYo/EdgeLabelTool/blob/master/cat03.png)  
-right click for saving the image  
-press 'n' for next picture
-press 'c' for recovering the image
+> use mouse as eraser, pressing left button to remove the part you don't like
+![cat03](https://github.com/pityYo/EdgeLabelTool/blob/master/cat03.png)    
+
+>right click the mouse for saving the image(no chinese in the path)    
+press 'n' for next picture  
+press 'c' for recovering the image  
 press 'q' for leaving the program
 
